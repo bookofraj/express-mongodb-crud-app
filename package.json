@@ -4,7 +4,7 @@
   "description": "Basic CRUD app using node js and mongo db",
   "main": "app.js",
   "engines": {
-    "node": "21.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node app.js",
