@@ -1,5 +1,5 @@
 
-# Phokat APIs
+# Node Js Mongo DB CRUD APIs
 
 Its a Node JS and MongoDB Atlas backend project that basically performs CRUD operation by using various REST API methods. One can use a API Client Software (like Postman, ThunderClient, etc.) to demonstrate / use this project.
 
